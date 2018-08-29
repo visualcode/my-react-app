@@ -7,6 +7,7 @@ const IndexPage = () => (
     <p>Welcome to your new site</p>
     <Link to="/page-2/">Watch the video link by Marc</Link>
   </div>
+  <div>Save the change</div>
 )
 
 export default IndexPage
