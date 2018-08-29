@@ -5,9 +5,8 @@ const IndexPage = () => (
   <div>
     <h1>Learn how to use React.js</h1>
     <p>Welcome to your new site</p>
-    <Link to="/page-2/">Watch the video link by Marc</Link>
+    <Link to="/page-2/">Watch the video link</Link>
   </div>
-  <div>Somebody else was here</div>
 )
 
 export default IndexPage
